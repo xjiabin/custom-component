@@ -11,5 +11,6 @@
   "license": "MTI",
   "dependencies": {
     "async-validator": "^3.5.1"
-  }
+  },
+  "gitHead": "848921edb03d23ba5718cf41e41b09f48bb8d944"
 }
